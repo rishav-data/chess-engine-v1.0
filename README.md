@@ -157,6 +157,8 @@ Winning positions are prioritized automatically.
 
 ### Tactical Awareness
 
+<img src="images/g2.gif" width="700">
+
 The AI evaluates:
 
 - Hanging pieces
@@ -199,7 +201,7 @@ Features include:
 - Visual move execution
 - Real-time board updates
 
-<img src="images/chessboard.png" width="900">
+<img src="images/chessboard.png" width="700">
 
 ### Visual Indicators
 
@@ -229,6 +231,7 @@ The game automatically detects:
 
 and offers the option to immediately start a new game.
 
+<img src="images/defense.png" width="700">
 ---
 
 # Project Architecture
