@@ -17,6 +17,7 @@ The application was created as the **Final Project for Stanford Code in Place**,
 Unlike simple chess implementations that only allow piece movement, this project includes legal move validation, check and checkmate detection, stalemate detection, pawn promotion, board evaluation heuristics, and an AI engine that analyzes positions before selecting a move.
 
 ---
+<img src="images/knight_table.png" width="200">
 
 ## Project Goals
 
@@ -461,6 +462,8 @@ The project represents a complete software system built from scratch, integratin
 **Rishav Dhara**
 
 B.Tech CSE (Data Science)
+Techno Main Salt Lake 
+Batch of 2023-2027
 
 Stanford Code in Place Participant
 
