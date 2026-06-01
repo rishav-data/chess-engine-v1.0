@@ -1,0 +1,11 @@
+chess/
+│
+├── main.py
+├── constants.py
+├── game.py
+├── rules.py
+├── ui.py
+│
+└── assets/
+    ├── wp.png
+    ├── ...
