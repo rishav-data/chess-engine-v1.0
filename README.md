@@ -149,6 +149,8 @@ The AI heavily rewards moves that:
 - Place the enemy king in check
 - Force checkmate
 
+<img src="images/checkmate.png" width="600">
+
 Winning positions are prioritized automatically.
 
 ---
