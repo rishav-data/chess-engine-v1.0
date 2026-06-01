@@ -17,7 +17,6 @@ The application was created as the **Final Project for Stanford Code in Place**,
 Unlike simple chess implementations that only allow piece movement, this project includes legal move validation, check and checkmate detection, stalemate detection, pawn promotion, board evaluation heuristics, and an AI engine that analyzes positions before selecting a move.
 
 ---
-<img src="images/knight_table.png" width="600">
 
 ## Project Goals
 
@@ -119,6 +118,8 @@ The AI prefers:
 - Active outposts
 - Squares with greater influence
 
+<img src="images/knight_table.png" width="600">
+
 while avoiding poorly placed edge and corner positions.
 
 ---
@@ -159,6 +160,8 @@ The AI evaluates:
 - Hanging pieces
 - Defended pieces
 - Immediate threats
+
+<img src="images/defense.png" width="700">
 
 This significantly reduces blunders compared to a purely random or greedy chess engine.
 
