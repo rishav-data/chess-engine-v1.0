@@ -199,6 +199,8 @@ Features include:
 - Visual move execution
 - Real-time board updates
 
+<img src="images/chessboard.png" width="900">
+
 ### Visual Indicators
 
 - Green square for selected pieces
@@ -215,6 +217,8 @@ The side panel displays:
 - Captured queens
 
 for both sides.
+
+<img src="images/g1.png" width="600">
 
 ### Game Over Dialogs
 
